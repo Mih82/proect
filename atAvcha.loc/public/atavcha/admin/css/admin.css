@@ -1,0 +1,41 @@
+body{
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    text-align: center;
+}
+.header{
+    display: inline;
+    text-align: center;
+    font-size: 17px;
+    margin-top: 10px;
+}
+.content{
+    display: inline-block;
+}
+.div-user-table{
+    display: inline;
+}
+.div_list_menu{
+
+}
+.ul_list{
+    padding: 0 10px 0 0;
+    margin: 10px 0 0 0;
+}
+.li_list{
+    display: inline;
+    list-style-type: none;
+    margin: 0 5px 0 5px;
+}
+.li_list a{
+    text-decoration: none;
+    color: #818182;
+}
+.table_users_list th{
+    text-align: center;
+}
+.table_users_list th,td{
+    padding: 0 20px 0 20px ;
+
+}

@@ -1,0 +1,23 @@
+.catalog_img{
+    width: 100px;
+}
+.img_update{
+    width: 300px;
+}
+.tr_product_catalog{
+    display: block;
+    text-align: center;
+    margin: 8px;
+}
+.tr_product_catalog>td{
+    padding: 2px 10px 2px 5px;
+}
+.product_show_a p{
+    display: inline-block;
+}
+.alert-status{
+    background-color: orange;
+    color: #040505;
+    font-size: 20px;
+    padding: 10px 0 10px 0;
+}

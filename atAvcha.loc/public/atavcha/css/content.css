@@ -1,0 +1,43 @@
+content{
+    position: relative;
+    display: inline-flex;
+    background: #98e1b7;
+    width: 100%;
+    margin-top: 15%;
+}
+.block_news{
+    display: inline;
+    position: absolute ;
+    left: -2%;
+    overflow: auto;
+    width: 20%;
+    top: 4%;
+}
+.block_catalog{
+    margin-left: 16%;
+    margin-right: 5%;
+}
+.block_product_detailed{
+    margin-left: 16%;
+    margin-right: 5%;
+}
+.catalog_view{
+}
+/*
+.block_discussion{
+    position: absolute ;
+    right: 2%;
+    display: inline;
+    overflow: auto;
+    width: 20%;
+}
+*/
+.news_list li{
+    list-style-type: none;
+}
+.discussion_list li{
+    list-style-type: none;
+}
+.catalog_img{
+    width: 200px;
+}

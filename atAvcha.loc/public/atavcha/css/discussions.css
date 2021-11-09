@@ -1,0 +1,22 @@
+.foundation_close_form{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 165, 0, 0.28);
+    z-index: 1;
+}
+#discussion_form{
+    /*z-index: 100;*/
+    /*position: inherit;*/
+}
+.discussion_text_ul li{
+    list-style:none;
+}
+.no_padding-inline-start ul{
+    padding-inline-start:0px;
+}
+.none{
+    display: none;
+}

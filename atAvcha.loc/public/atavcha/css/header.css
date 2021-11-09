@@ -1,0 +1,73 @@
+header{
+    position: fixed;
+    background-color: #ffffff;
+    top: 0;
+    width: 100%;
+    z-index: 5;
+}
+.block_top_menu{}
+.block_top_menu .inner{}
+.email{
+    display: inline;
+    padding: 0.5%;
+    margin-right: 66%;
+}
+.login_ot_reg{
+    display: inline;
+    padding: 0.5%;
+    text-align: right ;
+}
+.phone{
+    display: inline;
+    padding: 0.5%;
+}
+
+.header_block{
+    margin-top: 2%;
+}
+.logo_wrapper{
+    padding: 0.5%;
+    display: inline;
+    margin: 2%;
+}
+.logo h1{
+    display: inline;
+}
+.slogan{
+    padding: 0.5%;
+    margin-right: 28%;
+    display: inline;
+
+}
+.favorites{
+    padding: 0.5%;
+    display: inline;
+}
+.orders{
+    padding: 0.5%;
+    display: inline;
+}
+.basket{
+    padding: 0.5%;
+    display: inline;
+}
+.block_menu{
+    margin-top: 3%;
+}
+.menu_list li{
+    display: inline-block;
+    list-style-type: none;
+}
+.li{
+    width: 24%;
+    text-align: center;
+}
+.li a{
+    text-transform: uppercase;
+    text-align: center;
+}
+.total_quantity{
+    font-size: x-large;
+    font-weight: 700;
+}
+

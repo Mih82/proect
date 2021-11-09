@@ -1,0 +1,32 @@
+.categories_list_ul{
+    padding: 0 0 0 0;
+}
+.categories_list_a{
+    text-decoration: none;
+    color: #818182;
+    font-size: 20px;
+}
+.categories_list_li{
+    display: inline;
+    list-style-type: none;
+    margin: 0 5px 0 5px;
+}
+.categories_list_a:visited{
+    text-decoration: none;
+    box-shadow: 3px 5px 16px rgba(0,0,0,0.20); /* Тень */
+    padding: 0px; /* Поля вокруг текста */
+    border-radius: 8px; /* Радиус скругления */
+    background: #E0DDD8FF; /* Цвет фона */
+}
+.edit_category{
+    padding: 10px;
+    margin: 10px;
+    background-color: #e8e8e8;
+    border-radius: 10px;
+}
+.edit_category_form{
+    margin: 10px;
+}
+.edit_category_form select{
+    margin: 10px;
+}
